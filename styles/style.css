@@ -1,0 +1,71 @@
+.navbar-brand {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+  color: #e92569 !important;
+}
+
+main {
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 34px;
+  color: #e92569 !important;
+}
+
+.nav-tabs > .nav-link {
+  color: #e92569 !important;
+}
+
+i {
+  color: #767676;
+  font-size: 40px;
+}
+
+body {
+  background: white;
+  background: radial-gradient(circle, white 0%, #e5e5e5 100%);
+}
+
+.container {
+  min-width: 90%;
+}
+
+footer {
+  background-color: #fff;
+  height: 53px;
+}
+
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.btn-primary {
+  background-color: #e92569 !important;
+  border: 0;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: #fff;
+}
+
+.tab-content > .active {
+  background-color: #fff;
+  padding: 40px;
+  border: solid 1px #d1d1d1;
+  border-radius: 0px 5px 5px 5px;
+}
+/*# sourceMappingURL=style.css.map */
